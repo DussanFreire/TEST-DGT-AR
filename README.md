@@ -82,7 +82,7 @@ To switch to a different dataset, please follow these steps:
 To deploy the application on HoloLens 2 devices, please follow these steps:
 
 1. Begin by installing the necessary tools using the guide provided in [Microsoft's tools insallation guide](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/install-the-tools#installation-checklist).
-2. Download the built application from the GitHub repository [Builded AR APP](https://drive.google.com/drive/folders/1zYtktYTO4Eg8ZS-3ePWs-8W4caVLw6xP?usp=sharing).
+2. Download the built application from the GitHub repository [Builded AR APP]([https://drive.google.com/drive/folders/1zYtktYTO4Eg8ZS-3ePWs-8W4caVLw6xP?usp=sharing](https://drive.google.com/drive/folders/1-9rX4UqFepKoezjutv08Fpu5DQbnCGYO?usp=sharing)).
 3. Open your project in Visual Studio.
 4. Expand the 'Compilation Options' dropdown and select 'Release'.
 <p align="center" style="margin-top: 10px;">Image 2, Compilation Options</p>
